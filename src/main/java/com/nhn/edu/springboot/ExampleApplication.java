@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-@RestController // RestController의 역할을 하게 해준다.
+@RestController // RestController 역할을 하게 해준다.
 @SpringBootApplication
 public class ExampleApplication {
 
