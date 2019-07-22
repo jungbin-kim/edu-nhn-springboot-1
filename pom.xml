@@ -21,7 +21,7 @@
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-web</artifactId>
-            <!-- 버전을 달면 안된다. -->
+            <!-- 버전을 달면 안된다. Spring boot 버전에 따른 최신 라이브러리를 사용할 수 있도록! -->
         </dependency>
         <dependency>
             <groupId>org.springframework.boot</groupId>
