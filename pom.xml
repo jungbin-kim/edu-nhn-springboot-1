@@ -23,6 +23,10 @@
             <artifactId>spring-boot-starter-web</artifactId>
             <!-- 버전을 달면 안된다. -->
         </dependency>
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-freemarker</artifactId>
+        </dependency>
     </dependencies>
 
     <!-- 스프링부트 플러그인 -->
